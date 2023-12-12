@@ -1,2 +1,4 @@
 # Frist-git-repo
-This for treaing purpose on github baby
+
+
+this my first edit on README File 
